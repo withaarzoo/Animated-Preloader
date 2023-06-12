@@ -42,3 +42,6 @@ This code snippet is compatible with modern web browsers that support HTML5 and 
 Note: This code snippet is provided as a demonstration and may require further modifications to fit into a specific project or integrate with existing code.
 
 Feel free to use this code snippet as a starting point for creating your own animated preloaders or enhancing the user experience of your web applications.
+
+## Preview
+<img width="960" alt="Screenshot 2023-06-12 231758" src="https://github.com/Aarzoo75/Animated-Preloader/assets/59678435/989da6ef-e377-4552-b2a3-0dff00add7b4">
